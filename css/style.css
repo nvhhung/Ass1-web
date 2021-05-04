@@ -91,6 +91,42 @@ header .header-links a{
     padding-top: 60px;
   }
 
+/*Add style for product over view*/
+.product-overview h1 {
+    font-size: 34px;
+    font-weight: bold;
+}
+
+.product-overview .nav {
+    margin-bottom: 52px;
+}
+
+.product-overview .nav .nav-link{
+    color:rgb(126, 123, 123);
+}
+
+.product-overview .nav .active {
+    color: black;
+    text-decoration: underline;
+}
+
+.product-overview .col {
+    margin-bottom: 30px;
+}
+
+.product-overview img {
+    margin-bottom: 10px;
+}
+
+.product-overview p{
+    margin: 0;
+    padding: 1px;
+    color: #8b8a8a;
+    font-size: 15px;
+}
+
+
+
 /*footer*/
 .icons-1,.icons,.icons-2,.icons-3{border:1px solid transparent;padding:2% 2.2%;margin-left:2%;border-radius:50px;background-color:rgb(49, 48, 48);}
 .icons-2{padding:2% 3%;}
